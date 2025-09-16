@@ -1,1 +1,15 @@
 raw_photos/
+/new_dataset_settings_model/abstract/
+/new_dataset_settings_model/animals/
+/new_dataset_settings_model/man_made/
+/new_dataset_settings_model/nature/
+/new_dataset_settings_model/new_dataset/
+/new_dataset_settings_model/people/
+/new_dataset_settings_model/runs/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.gif
+*.psd
